@@ -28,8 +28,8 @@ Visiting positions (selection)
 
 Awards and grants
 ------
-* Prime d'Encadrement et de Recherche (PEDR), 2019–2023
-* CNRS research leave (délégation), 2020/21
+* Prime d'Encadrement et de Recherche (PEDR), 2019–2023 and 2025–2027
+* CNRS research leave (délégation), 2020/21 and 2025/26
 * EU MSCA-IF project *Independence Phenomena in Operator Algebras* (IPOA), 2020–2022
 
 Editorial work

@@ -9,7 +9,7 @@ Complete lists: [ORCID](https://orcid.org/0000-0002-0563-4024) · [arXiv](https:
 
 Preprints
 ------
-1. B. De Bondt, I. Farah, T. Ibarlucía, B. Veličković, A. Vignati, *Trivial automorphisms of reduced powers*, preprint.
+1. D. Basak, M. Casarosa, C. Lambie-Hanson, P. Marun, B. Veličković, A. Vignati, *Higher derived limits, Kurepa families and Chang's Conjecture*. [arXiv:2611.18011](https://arxiv.org/abs/2611.18011)
 1. J. Väänänen, B. Veličković, *On some infinitary logics*, 42 pp. [arXiv:2402.13344](https://arxiv.org/abs/2402.13344)
 1. O. Kasum, B. Veličković, *Marginalia to a theorem of Asperó and Schindler*, 60 pp. [arXiv:2308.08293](https://arxiv.org/abs/2308.08293)
 1. R. Mohammadpour, B. Veličković, *On indestructible strongly guessing models*, 25 pp. [arXiv:2303.17458](https://arxiv.org/abs/2303.17458)

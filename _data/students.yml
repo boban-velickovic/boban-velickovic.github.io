@@ -1,7 +1,7 @@
 # PhD students of Boban Veličković.
 # To add a thesis link, fill in thesis_url (e.g. the HAL / theses.hal.science page).
 # French variants: add _fr to a field name (topic_fr, note_fr, university_fr, ...).
-# Optional fields: title, topic, cosupervisors, award, note, thesis_url.
+# Optional fields: homepage, title, topic, cosupervisors, award, note, thesis_url.
 
 current:
   - name: "Dianthe Basak"
@@ -31,6 +31,7 @@ former:
     title: "On universality problems in non elementary classes"
     thesis_url:
   - name: "Obrad Kasum"
+    homepage: "https://obradkasum.github.io/"
     year: 2025
     university: "Université Paris Cité"
     title: "Investigation into phenomena surrounding universally Baire sets"

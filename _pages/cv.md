@@ -20,6 +20,7 @@ Education and earlier positions
 
 Visiting positions (selection)
 ------
+* Simons Scholar, IMPAN, Warsaw (June 2026)
 * Visiting Professor, University of Helsinki (2020, 2021, 2022, 2023)
 * Visiting Professor, IMPAN, Gdańsk (2023)
 * Simons Scholar, Isaac Newton Institute, Cambridge (fall 2015)

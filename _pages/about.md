@@ -2,6 +2,7 @@
 permalink: /
 title: "Boban Veličković"
 author_profile: true
+translation: /fr/
 redirect_from:
   - /about/
   - /about.html

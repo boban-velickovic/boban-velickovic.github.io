@@ -3,6 +3,7 @@ layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
+translation: /fr/recherche/
 ---
 
 My research is in mathematical logic, more precisely in set theory. Set theory plays a special role in logic: on one hand it deals with foundational questions, such as the choice of axioms and the consistency of mathematical theories; on the other hand its techniques have important applications in other areas of mathematics, such as Banach spaces, operator algebras and homological algebra. I have worked on both the *pure* and the *applied* side of the subject.

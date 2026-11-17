@@ -1,0 +1,7 @@
+1. D. Basak, M. Casarosa, C. Lambie-Hanson, P. Marun, B. Veličković, A. Vignati, *Higher derived limits, Kurepa families and Chang's Conjecture*. [arXiv:2611.18011](https://arxiv.org/abs/2611.18011)
+1. J. Väänänen, B. Veličković, *On some infinitary logics*, 42 pp. [arXiv:2402.13344](https://arxiv.org/abs/2402.13344)
+1. O. Kasum, B. Veličković, *Marginalia to a theorem of Asperó and Schindler*, 60 pp. [arXiv:2308.08293](https://arxiv.org/abs/2308.08293)
+1. R. Mohammadpour, B. Veličković, *On indestructible strongly guessing models*, 25 pp. [arXiv:2303.17458](https://arxiv.org/abs/2303.17458)
+1. O. Kasum, B. Veličković, *Iterating semi-proper forcing using virtual models*, 43 pp. [arXiv:2303.12565](https://arxiv.org/abs/2303.12565)
+1. S. Kivimäki, B. Veličković, *Characterization of 𝓛<sup>1</sup><sub>κ</sub>*, 8 pp. [arXiv:2303.10759](https://arxiv.org/abs/2303.10759)
+1. B. De Bondt, B. Veličković, *Increasing the second uniform indiscernible by strongly ssp forcing*, 15 pp. [arXiv:2212.13797](https://arxiv.org/abs/2212.13797)

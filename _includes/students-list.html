@@ -1,0 +1,15 @@
+{% assign fr = include.lang == 'fr' %}
+<h2>{% if fr %}Doctorants actuels{% else %}Current students{% endif %}</h2>
+<ul>
+{% for s in site.data.students.current %}
+  {% if fr %}{% assign topic = s.topic_fr | default: s.topic %}{% assign note = s.note_fr | default: s.note %}{% else %}{% assign topic = s.topic %}{% assign note = s.note %}{% endif %}
+  <li><strong>{{ s.name }}</strong> ({{ s.university }}, {% if fr %}depuis{% else %}since{% endif %} {{ s.since }}){% if fr %} :{% else %}:{% endif %} <em>{{ topic }}</em>{% if note %}. {{ note }}{% endif %}.</li>
+{% endfor %}
+</ul>
+<h2>{% if fr %}Anciens doctorants{% else %}Former students{% endif %}</h2>
+<ul>
+{% for s in site.data.students.former %}
+  {% if fr %}{% assign uni = s.university_fr | default: s.university %}{% assign cos = s.cosupervisors_fr | default: s.cosupervisors %}{% assign award = s.award_fr | default: s.award %}{% else %}{% assign uni = s.university %}{% assign cos = s.cosupervisors %}{% assign award = s.award %}{% endif %}
+  <li><strong>{{ s.name }}</strong>{% if s.year %}, {{ s.year }}{% endif %}, {{ uni }}{% if cos %}, {% if fr %}en codirection avec{% else %}co-supervised with{% endif %} {{ cos }}{% endif %}{% if s.title %}.<br>{% if s.thesis_url %}<a href="{{ s.thesis_url }}"><em>{{ s.title }}</em></a>{% else %}<em>{{ s.title }}</em>{% endif %}{% elsif s.thesis_url %}. <a href="{{ s.thesis_url }}">{% if fr %}Thèse{% else %}Thesis{% endif %}</a>{% endif %}{% if award %}<br>🏆 <strong>{{ award }}</strong>{% endif %}</li>
+{% endfor %}
+</ul>

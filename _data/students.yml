@@ -1,5 +1,6 @@
 # PhD students of Boban Veličković.
 # To add a thesis link, fill in thesis_url (e.g. the HAL / theses.hal.science page).
+# French variants: add _fr to a field name (topic_fr, note_fr, university_fr, ...).
 # Optional fields: title, topic, cosupervisors, award, note, thesis_url.
 
 current:
@@ -8,29 +9,36 @@ current:
     since: 2022
     topic: "Large cardinals beyond the Axiom of Choice"
     note: "Thesis approved; defense scheduled for 11 December 2026"
+    note_fr: "Thèse autorisée à soutenance ; soutenance prévue le 11 décembre 2026"
   - name: "Alessandro Petetta"
     university: "Université Paris Cité"
     since: 2025
     topic: "Forcing axioms and definability"
+    topic_fr: "Axiomes de forcing et définissabilité"
   - name: "Gautham Viswanathan"
     university: "Université Paris Cité"
     since: 2026
     topic: "Interplay between set theory and topos theory"
+    topic_fr: "Interactions entre théorie des ensembles et théorie des topos"
 
 former:
   - name: "Siiri Kivimäki"
     year: 2026
     university: "University of Helsinki and Université Paris Cité (cotutelle)"
+    university_fr: "Université d'Helsinki et Université Paris Cité (cotutelle)"
     cosupervisors: "Jouko Väänänen and Juliette Kennedy"
+    cosupervisors_fr: "Jouko Väänänen et Juliette Kennedy"
     thesis_url:
   - name: "Obrad Kasum"
     year: 2025
     university: "Université Paris Cité"
     award: "Sacks Prize 2025"
+    award_fr: "Prix Sacks 2025"
     thesis_url:
   - name: "Juan Manuel Santiago Suárez"
     year: 2024
     university: "Université Paris Cité and Politecnico di Torino (cotutelle)"
+    university_fr: "Université Paris Cité et Politecnico di Torino (cotutelle)"
     cosupervisors: "Matteo Viale"
     title: "Infinitary logics and forcing"
     thesis_url:
@@ -47,6 +55,7 @@ former:
   - name: "Kevin Fournier"
     year: 2016
     university: "Université Paris Diderot and Université de Lausanne"
+    university_fr: "Université Paris Diderot et Université de Lausanne"
     thesis_url:
   - name: "Cristóbal Rodríguez Porras"
     year: 2015
@@ -55,6 +64,7 @@ former:
   - name: "Giorgio Venturi"
     year: 2014
     university: "Scuola Normale Superiore di Pisa and Université Paris Diderot"
+    university_fr: "Scuola Normale Superiore di Pisa et Université Paris Diderot"
     thesis_url:
   - name: "Christophe Chalons"
     year: 2014
@@ -80,6 +90,7 @@ former:
     year:
     university: "Université Paris Diderot"
     award: "Sacks Prize 2005"
+    award_fr: "Prix Sacks 2005"
     thesis_url:
   - name: "Sandra Quickert"
     year: 2002

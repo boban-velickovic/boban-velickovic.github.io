@@ -3,6 +3,7 @@ layout: archive
 title: "Teaching"
 permalink: /teaching/
 author_profile: true
+translation: /fr/enseignement/
 ---
 
 2026–2027

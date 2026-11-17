@@ -26,6 +26,7 @@ author:
   name             : "Boban Veličković"
   pronouns         : # example: "she/her"  
   bio              : "Professor (classe exceptionnelle), set theory and mathematical logic"
+  bio_fr           : "Professeur (classe exceptionnelle), théorie des ensembles et logique mathématique"
   location         : "Paris, France"
   employer         : "Université Paris Cité"
   uri              : # URL

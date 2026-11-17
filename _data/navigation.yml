@@ -14,3 +14,19 @@ main:
 
   - title: "CV"
     url: /cv/
+
+main_fr:
+  - title: "Recherche"
+    url: /fr/recherche/
+
+  - title: "Doctorants"
+    url: /fr/doctorants/
+
+  - title: "Publications"
+    url: /fr/publications/
+
+  - title: "Enseignement"
+    url: /fr/enseignement/
+
+  - title: "CV"
+    url: /fr/cv/

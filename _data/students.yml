@@ -1,0 +1,87 @@
+# PhD students of Boban Veličković.
+# To add a thesis link, fill in thesis_url (e.g. the HAL / theses.hal.science page).
+# Optional fields: title, topic, cosupervisors, award, note, thesis_url.
+
+current:
+  - name: "Dianthe Basak"
+    university: "Université Paris Cité"
+    since: 2022
+    topic: "Large cardinals beyond the Axiom of Choice"
+    note: "Thesis approved; defense scheduled for 11 December 2026"
+  - name: "Alessandro Petetta"
+    university: "Université Paris Cité"
+    since: 2025
+    topic: "Forcing axioms and definability"
+  - name: "Gautham Viswanathan"
+    university: "Université Paris Cité"
+    since: 2026
+    topic: "Interplay between set theory and topos theory"
+
+former:
+  - name: "Siiri Kivimäki"
+    year: 2026
+    university: "University of Helsinki and Université Paris Cité (cotutelle)"
+    cosupervisors: "Jouko Väänänen and Juliette Kennedy"
+    thesis_url:
+  - name: "Obrad Kasum"
+    year: 2025
+    university: "Université Paris Cité"
+    award: "Sacks Prize 2025"
+    thesis_url:
+  - name: "Juan Manuel Santiago Suárez"
+    year: 2024
+    university: "Université Paris Cité and Politecnico di Torino (cotutelle)"
+    cosupervisors: "Matteo Viale"
+    title: "Infinitary logics and forcing"
+    thesis_url:
+  - name: "Ben De Bondt"
+    year: 2024
+    university: "Université Paris Cité"
+    title: "Stationary set preserving forcing, side conditions and games"
+    thesis_url:
+  - name: "Rahman Mohammadpour"
+    year: 2020
+    university: "Université de Paris"
+    title: "New methods in forcing iterations and applications"
+    thesis_url:
+  - name: "Kevin Fournier"
+    year: 2016
+    university: "Université Paris Diderot and Université de Lausanne"
+    thesis_url:
+  - name: "Cristóbal Rodríguez Porras"
+    year: 2015
+    university: "Université Paris Diderot"
+    thesis_url:
+  - name: "Giorgio Venturi"
+    year: 2014
+    university: "Scuola Normale Superiore di Pisa and Université Paris Diderot"
+    thesis_url:
+  - name: "Christophe Chalons"
+    year: 2014
+    university: "Université Paris Diderot"
+    thesis_url:
+  - name: "Laura Fontanella"
+    year: 2012
+    university: "Université Paris Diderot"
+    thesis_url:
+  - name: "Rémi Strullu"
+    year: 2012
+    university: "Université Paris Diderot"
+    thesis_url:
+  - name: "Benjamin Claverie"
+    year: 2010
+    university: "Universität Münster"
+    thesis_url:
+  - name: "Karim Er-rhaimini"
+    year: 2009
+    university: "Université Paris Diderot"
+    thesis_url:
+  - name: "Matteo Viale"
+    year:
+    university: "Université Paris Diderot"
+    award: "Sacks Prize 2005"
+    thesis_url:
+  - name: "Sandra Quickert"
+    year: 2002
+    university: "Universität Bonn"
+    thesis_url:

@@ -24,17 +24,7 @@ Applications of set theory
 
 Doctoral students
 ------
-Current:
-* Juan Santiago (co-supervised with Matteo Viale, Turin): *Infinitary logic and forcing*
-* Obrad Kasum: *Forcing axioms and determinacy*
-* Dianthe Basak: *Large cardinals beyond the Axiom of Choice*
-* Siiri Kivimäki (co-supervised with Jouko Väänänen, Helsinki): *Nice infinitary logics*
-
-Recently defended:
-* Ben De Bondt (2024): *Stationary set preserving forcing, side conditions and games*
-* Rahman Mohammadpour (2020): *New methods in forcing iterations and applications*
-
-For the complete list, see the [Mathematics Genealogy Project](https://www.mathgenealogy.org/id.php?id=10233).
+Two of my PhD students have received the Sacks Prize. See the [PhD students](/students/) page.
 
 Seminars and activities
 ------

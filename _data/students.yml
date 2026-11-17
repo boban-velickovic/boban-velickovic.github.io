@@ -7,7 +7,7 @@ current:
   - name: "Dianthe Basak"
     university: "Université Paris Cité"
     since: 2022
-    topic: "Large cardinals beyond the Axiom of Choice"
+    topic: "The Shape of Reason: Topologised Symmetries and the Topos Theoretic Viewpoint on Set Theory"
     note: "Thesis approved; defense scheduled for 11 December 2026"
     note_fr: "Thèse autorisée à soutenance ; soutenance prévue le 11 décembre 2026"
   - name: "Alessandro Petetta"
@@ -28,13 +28,15 @@ former:
     university_fr: "Université d'Helsinki et Université Paris Cité (cotutelle)"
     cosupervisors: "Jouko Väänänen and Juliette Kennedy"
     cosupervisors_fr: "Jouko Väänänen et Juliette Kennedy"
+    title: "On universality problems in non elementary classes"
     thesis_url:
   - name: "Obrad Kasum"
     year: 2025
     university: "Université Paris Cité"
+    title: "Investigation into phenomena surrounding universally Baire sets"
+    thesis_url: "https://hal.science/tel-05126507v2"
     award: "Sacks Prize 2025"
     award_fr: "Prix Sacks 2025"
-    thesis_url:
   - name: "Juan Manuel Santiago Suárez"
     year: 2024
     university: "Université Paris Cité and Politecnico di Torino (cotutelle)"

@@ -1,4 +1,4 @@
-{% assign fr = include.lang == 'fr' %}
+{% if include.lang == 'fr' %}{% assign fr = true %}{% else %}{% assign fr = false %}{% endif %}
 <h2>{% if fr %}Doctorants actuels{% else %}Current students{% endif %}</h2>
 <ul>
 {% for s in site.data.students.current %}
